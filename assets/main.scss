@@ -1,0 +1,13 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Montserrat');
+
+$base-font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$headers-font-family: 'Libre Baskerville', serif;
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headers-font-family;
+}
+
+@import "{{ site.theme }}";

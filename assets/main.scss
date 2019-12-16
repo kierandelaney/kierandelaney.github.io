@@ -11,3 +11,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @import "{{ site.theme }}";
+
+.footer-col-2 {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+}

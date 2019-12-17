@@ -25,6 +25,8 @@ twitter_username: kierandelaney
 github_username:  kierandelaney
 facebook_username: burnthepopkids
 linkedin_username: akierandelaney
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

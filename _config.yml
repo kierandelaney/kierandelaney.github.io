@@ -27,6 +27,7 @@ facebook_username: burnthepopkids
 linkedin_username: akierandelaney
 show_excerpts: true
 excerpt_separator: <!--more-->
+permalink: /:year/:month/:day/:title:output_ext
 
 # Build settings
 markdown: kramdown

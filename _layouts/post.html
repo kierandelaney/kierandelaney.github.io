@@ -10,6 +10,10 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+      <categories>
+        {{page.categories | array_to_sentence_string: ', ' }}
+      </categories>
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

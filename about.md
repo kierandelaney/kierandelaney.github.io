@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a 30-something Director of IT living in North Yorkshire. I enjoy building things. I enjoy breaking things. I enjoy discovering how things work.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I enjoy cycling, both on road and off road and I enjoy walking outdoors, preferably up big things.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I love music.
 
+I have a son who makes me laugh every day.
 
-[jekyll-organization]: https://github.com/jekyll
+This blog is powered by [jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+My theme is a modified variation of [jekyll/minima](https://github.com/jekyll/minima)

@@ -39,3 +39,25 @@ h1, h2, h3, h4, h5, h6 {
 p.post-meta categories {
   margin-left: 10px;
 }
+
+img.list-image {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 2px;
+}
+
+img.list-image-right {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 2px;
+}
+
+.clearfix::after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.spacer {
+  height: 15px;
+}
